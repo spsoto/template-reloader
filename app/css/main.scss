@@ -1,0 +1,16 @@
+/*
+  Write your styles here.
+*/
+
+// Bootstrap variables overrides here
+
+/*
+  Bootstrap loading. Leave this alone.
+*/
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+@import "bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+
+// Custom stylings here.
+
+// @includes work relative to the css folder as expected.
+// Bundled css is injected and live reloaded via app.js.
